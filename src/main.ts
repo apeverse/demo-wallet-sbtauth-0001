@@ -15,7 +15,8 @@ const abi = [
     type: "function",
   },
 ];
-const contractAddress = "0xee68a176176AF73C5A1e341F0F6fD1f58a42fFBb";
+// const contractAddress = "0xee68a176176AF73C5A1e341F0F6fD1f58a42fFBb";
+const contractAddress = "0x2207df6709d92237022a85ddde176b567d7e313e";
 
 // Initialize sbtauth
 const sbtauth = new SbtAuthWallet({
